@@ -1,2 +1,2 @@
 # Matplotlib-Practice
-Practicing simple plots
+Practicing simple-plots.py
